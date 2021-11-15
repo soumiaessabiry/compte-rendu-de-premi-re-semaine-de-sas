@@ -1,0 +1,48 @@
+**************** Compte rendu des activités de première semaine du SAS :*****************
+								1===>GIt<====
+
+--->C’est quoi git?
+
+   A) Git : est un logiciel de gestion de versions (Version Control System) qui suit l’évolution des fichiers sources et garde les anciennes versions de chacun d’eux sans rien écraser.
+     ---->C’est quoi github?
+   B) GitHub est une plateforme de "codes" open-source. Pour faire court, c'est une sorte de réseaux social de développeurs. 
+     ---->Les commandes de git :
+1- git config --global user. email sam@google.com:
+    On l’utilise pour configurer les préférences de l’utilisateur : son mail, l’algorithme utilisé pour diff, le nom d’utilisateur et le format de fichier etc.
+2-git  init :
+  Cette commande est utilisée pour créer un nouveau dépôt GIT. 
+3- git  add : 
+   peut être utilisée pour ajouter des fichiers à l’index. 
+4- git clone:
+  est utilisée pour la vérification des dépôts.  Si le dépôt se trouve sur un serveur distant
+5- git commit :
+  permet de valider les modifications apportées au HEAD
+6- git push origin master : 
+  Un simple push envoie les modifications locales apportées à la branche principale associée
+7- git checkout -b <nom-branche> : 
+ peut être utilisée pour créer des branches ou pour basculer entre elles. 
+8- git remote –v : 
+  permet à un utilisateur de se connecter à un dépôt distant. La commande suivante répertorie les dépôts distants actuellement configurés.
+9-Git pull : 
+  Pour fusionner toutes les modifications présentes sur le dépôt distant dans le répertoire de travail local.
+-------> les sujet des veilles:
+	git vs github====>(git est un outile de gestion et github et un platforme)
+	github vs gitlab====>github et gitlab son deux platfome qui on peut installé sur un serveure priveé mais cette option et limité sur github).
+	github vs Azure devobs.
+	 							===>Pour langage C<====
+  - Langage C est un langage de programmation impératif conçu pour la programmation système. Inventé au début des années 1970 avec UNIX.
+  - Différence entre C et C++?
+    La difference entre les deux c'est que langage C  et un langage procédural c.a.d que il ne prende pas en charge les les calsse et les objet par contre C++ et une compinison de  programation   procédural et orienté objet.
+  - la difference entre les langage compilé et interprét?:
+ la différence entre les deux c'est que langage compilé la traduction des instructions de programme son traduire a une seule fois pour toutes par contre la traduction des instruction ce fait a toute exécution dans les langage interpreté .
+   - les type des varaibles:
+ 	les varaiable : un varaiable est une structure de ddonnées qui permet de stocker un ou une plusieur valeurs. 
+	int== nombre entier{ 1 343 6  -7 .....}
+	float==nombre réel{1,4 -5,7......}
+	char== caractére
+	string==chaie de caractére 
+	bool==true/false
+  - la déclaration des variable :
+             type de variable nom de variable;
+
+  
